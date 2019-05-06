@@ -1,0 +1,18 @@
+paso 2: 
+
+<meta name="viewport" content="width=device-width, initial-scale=1"> 
+Se verifica con la fuente que se ajusta al tamaño del viewport
+
+paso 3: 
+
+<link rel="stylesheet" type="text/css" href="css/estilo.css">
+<link rel="stylesheet" type="text/css" href="css/rwd1.css">
+agregar clases a las etiquetas
+
+paso 4:
+
+agregar el atributo media="screen and (min-width:1024px)" al rwd1.css
+eliminar elementos
+
+paso 5:
+img width 100%
